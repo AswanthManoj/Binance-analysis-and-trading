@@ -1,0 +1,6 @@
+Binance_Test_API_Key = 'Uld1LqNASpzAXWrvAn5FRW3taa41AkTm1T6psDom0i6aKLexBY0TBErqMaWGlDYg'
+Binance_Test_Secret_Key = 'sr73gujAzlqjbhPXGWjubOZEdulWJ816Egvvfx4PrhnEEF0bAzFJs4u4XWFoWGtx'
+Symbol_list = ['BTC/USDT','ETH/USDT','BNB/USDT','ADA/USDT','SOL/USDT','XRP/USDT','DOT/USDT','LUNA/USDT','UNI/USDT','AVAX/USDT','LINK/USDT','ALGO/USDT','MATIC/USDT','XLM/USDT','AXS/USDT','ATOM/USDT','FTM/USDT','KSM/USDT']
+TimeFrame1 = '1h'
+TimeFrame2 = '30m'
+Limit = 200
