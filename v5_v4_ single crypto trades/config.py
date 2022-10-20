@@ -1,7 +1,7 @@
-Binance_API_Key = 'iM6fPRCc0eXuqQ80Xf58JxbLcidBhXVqaEkRNJ8sQwmgT8sc2f2J0XgQk4JHWBrE'
-Binance_Secret_Key = 'XEIngC262MxXIOnzDKxi8VW2H9iq07r0f0VsVp0kJOe7ZX56yDl37RXtVJgQHXtr'
-pushbulletToken = 'o.5mdXFyHGTzfea0spUU99C05cHUz9rq6j'
-#pushbulletToken = 'o.VCEzQtdu6J3ez9RIaeXNVHVzh75l4wxu'
+Binance_API_Key = '' #your binance api key here
+Binance_Secret_Key = '' #your binance secret key here
+pushbulletToken = '' #your pushbullet api key here
+
 symbols=   ['galausdt',
             'chrusdt',
             'maticusdt',
