@@ -1,5 +1,10 @@
 Oct-20-2022 00:25:00 : ftmusdt
 {'position': True, 'assetQuantity': 4874.390243902439, 'price': 0.205, 'stoploss': 0.2043, 'takeprofit': 0.2081}
 Oct-20-2022 01:02:00 : Stoploss hit
-Profit/Gain : -1.9865109451220633Account Balance : 1498.013489054878{'successfull': 0, 'failed': 1}
+Profit/Gain : -1.9865109451220633 Account Balance : 1498.013489054878{'successfull': 0, 'failed': 1}
+
+Oct-20-2022 01:23:10 : ftmusdt
+{'position': True, 'assetQuantity': 4874.390243902439, 'price': 0.201, 'stoploss': 0.2021, 'takeprofit': 0.2043}
+Oct-20-2022 01:57:02 : Stoploss hit
+Profit/Gain : 3.186510924546220633 Account Balance : 1501.2{'successfull': 1, 'failed': 1}
 
