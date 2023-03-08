@@ -1,0 +1,11 @@
+Binance_API_Key = 'F6fQGb1Y7pPR1NBR00zD7SGK2VtHN5ifc0LKBycipuA3xxtfqq4N3KwPXwx2tMYf'
+Binance_Secret_Key = 'qRkPMLUp96Gvm5BcNFMzhk6VUSkt6WAn6gfNKa0xhfZXqMPYWjUvzTM58NZcVQh3'
+Symbol = 'maticusdt'
+Symbol_for_prev_data = 'MATIC/USDT'
+TimeFrame = '2h'
+T_Frame = '1h'
+percentup = 4
+percentdown = 2
+Lower_limit_price = 1
+Upper_limit_price = 3
+trade_fee = 0.00075
