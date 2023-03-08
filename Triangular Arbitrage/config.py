@@ -1,10 +1,10 @@
 #main_net
-#Binance_API_Key = 'F6fQGb1Y7pPR1NBR00zD7SGK2VtHN5ifc0LKBycipuA3xxtfqq4N3KwPXwx2tMYf'
-#Binance_Secret_Key = 'qRkPMLUp96Gvm5BcNFMzhk6VUSkt6WAn6gfNKa0xhfZXqMPYWjUvzTM58NZcVQh3'
+#Binance_API_Key = '<Binance_API_Key_here>'
+#Binance_Secret_Key = '<Binance_Secret_Key_here>'
 
 #test_net
-Binance_API_Key = 'rmh53ai29qgUAaw6tNrgeFa2nOcE2QNEV1wuVexRUMUTEUpqmQWciMKu84gfVZLm'
-Binance_Secret_Key = 'fmJvfCzC6DBxwJrhbEkkgNkJctutaBGRv2qmKDD1LvSIP9ib2Q9MFqS0AZEIlcs6'
+Binance_API_Key = '<Binance_API_Key_here>'
+Binance_Secret_Key = '<Binance_Secret_Key_here>'
 
 Symbol1 = 'BNBBTC'
 Symbol2 = 'BNBETH'
@@ -23,5 +23,4 @@ eth sell usdt  |  dai buy usdt
 
 sell,buy,sell     buy,sell,buy
 
-1.0008 1922.17 1907
 '''
