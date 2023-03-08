@@ -1,0 +1,102 @@
+{
+    "orders": [
+        {
+            "buys": [
+                {
+                    "price": 137.6,
+                    "amount": 10,
+                    "quantity": 0.07260174418604652,
+                    "fees": 0.01
+                }
+            ],
+            "sells": [
+                {
+                    "price": 138.9,
+                    "amount": 10.07429788517442,
+                    "quantity": 0.07260174418604652,
+                    "fees": 0.010084382267441863
+                }
+            ],
+            "average buy price": 137.73773773773772,
+            "average sell price": 138.9,
+            "total fees": 0.03016876453488373,
+            "profit": 0.07429788517442049
+        },
+        {
+            "buys": [
+                {
+                    "price": 139.5,
+                    "amount": 10,
+                    "quantity": 0.07161290322580645,
+                    "fees": 0.01
+                },
+                {
+                    "price": 139.0,
+                    "amount": 20,
+                    "quantity": 0.1437410071942446,
+                    "fees": 0.02
+                },
+                {
+                    "price": 138.7,
+                    "amount": 40,
+                    "quantity": 0.2881038211968277,
+                    "fees": 0.04
+                }
+            ],
+            "sells": [
+                {
+                    "price": 139.0,
+                    "amount": 69.91064407005139,
+                    "quantity": 0.5034577316168787,
+                    "fees": 0.06998062469474614
+                }
+            ],
+            "average buy price": 139.0384844725527,
+            "average sell price": 139.0,
+            "total fees": 0.2099612493894923,
+            "profit": -0.08935592994860997
+        },
+        {
+            "buys": [
+                {
+                    "price": 137.9,
+                    "amount": 10,
+                    "quantity": 0.07244379985496736,
+                    "fees": 0.01
+                },
+                {
+                    "price": 138.0,
+                    "amount": 20,
+                    "quantity": 0.14478260869565218,
+                    "fees": 0.02
+                },
+                {
+                    "price": 138.0,
+                    "amount": 40,
+                    "quantity": 0.28956521739130436,
+                    "fees": 0.04
+                },
+                {
+                    "price": 137.7,
+                    "amount": 80,
+                    "quantity": 0.5803921568627451,
+                    "fees": 0.08
+                }
+            ],
+            "sells": [
+                {
+                    "price": 139.6,
+                    "amount": 151.61908522345226,
+                    "quantity": 1.087183782804669,
+                    "fees": 0.1517708560795318
+                }
+            ],
+            "average buy price": 137.97115296646217,
+            "average sell price": 139.6,
+            "total fees": 0.4535417121590636,
+            "profit": 1.6190852234522595
+        }
+    ],
+    "total profit": 1.60402717867807,
+    "total fees paid": 0.6936717260834396
+}
