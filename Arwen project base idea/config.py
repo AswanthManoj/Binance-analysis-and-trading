@@ -1,6 +1,6 @@
-Binance_API_Key = 'ZmflsQ6PICh2rOlYmsgzhA4Q4oCsoe1Y4nueDLErhYk671f5yfqfa4ONwCSXKH44'
-Binance_Secret_Key = 'B8WOzCv56dMmRnmrNMCYAfjQABNSp6T6dD2z3osD7uxUiHl84x6FsFZZvFCf6L61'
-pushbulletToken = 'o.FEz9TSZblYIvrkf2dUg0dhffZVZ4vjfv'
+Binance_API_Key = '<Binance_API_Key>'
+Binance_Secret_Key = '<Binance_Secret_Key>'
+pushbulletToken = '<pushbulletToken>'
 
 '''symbols=   ['galausdt',
             'chrusdt',
