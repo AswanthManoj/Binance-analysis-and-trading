@@ -1,5 +1,5 @@
-Binance_API_Key = 'F6fQGb1Y7pPR1NBR00zD7SGK2VtHN5ifc0LKBycipuA3xxtfqq4N3KwPXwx2tMYf'
-Binance_Secret_Key = 'qRkPMLUp96Gvm5BcNFMzhk6VUSkt6WAn6gfNKa0xhfZXqMPYWjUvzTM58NZcVQh3'
+Binance_API_Key = <your binance api key here>
+Binance_Secret_Key = <your binance secret key here>
 Symbol = 'maticusdt'
 Symbol_for_prev_data = 'MATIC/USDT'
 TimeFrame = '2h'
